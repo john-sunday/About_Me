@@ -1,5 +1,19 @@
 <resources>
-    <string name="app_name">About Me</string>
-    <string name="juanDomingo">Juan Domingo</string>
-    <string name="yellow_star">Yellow Star</string>
+    <string name="app_name" translatable="false">About Me</string>
+    <string name="juanDomingo" translatable="false">Juan Domingo</string>
+    <string name="yellow_star" translatable="false">Yellow Star</string>
+    <string name="bio" translatable="false">Bio Juan.
+        \n\nI like programming.An of course I like Software Developing.
+        \n\nI usually go to Gym and I train very hard.
+        \n\nIn the summer I go to the beach.
+        \nWhen I had become a expert programmer, I will be a freelance.
+        \nI enjoy the food, any food.
+        \nI like very much marxist philosophy and materialist philosophy in general.
+        \n\nMy football teams are: Liverpool, River Plate, Real Madrid, Borussia Dortmund, Olympique Marseille, Amsterdam Ajax, Napoli, Juventus, etc.
+        \n\nI play music very often like Doobie Brothers, Chuck Berry, The Beatles, Creedence Clearwater Revival, etc.
+        \n\n\nI have a grey long hair.
+        \n\nAnd I\'ve green color eyes.
+        \n\n\nI like a simple pizza.
+        \n\nI\'m waiting to start the labour practices.
+    </string>
 </resources>
